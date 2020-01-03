@@ -6,7 +6,7 @@
 
     *React - Redux is the official Redux UI binding library for react*
 
-![alt text](https://github.com/eshanwp/React-Redux/blob/master/React-Redux/img/11.png)
+![alt text](https://github.com/eshanwp/React-Redux/blob/master/img/1.png?raw=true)
 
 - React is a library used to build user interface.
 - Redux is a library for managing state in a predictable way in javaScript application.
