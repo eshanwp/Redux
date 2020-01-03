@@ -20,13 +20,13 @@
 
 ***Three Core Concepts***
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/90ee8ab1-4819-46a3-8c05-6f760837bd21/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/90ee8ab1-4819-46a3-8c05-6f760837bd21/Untitled.png)
+![alt text](https://github.com/eshanwp/React-Redux/blob/master/img/2.png?raw=true)
 
 1. A **store** that holds the state of your application.
 2. An **action** that describe the changes in the state of the application
 3. A **reducer** which actually carries out the state transaction depending on the action
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0a73fc16-7323-449a-bcd7-76c23c52ca5d/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0a73fc16-7323-449a-bcd7-76c23c52ca5d/Untitled.png)
+![alt text](https://github.com/eshanwp/React-Redux/blob/master/img/3.png?raw=true)
 
 ***Actions***
 
